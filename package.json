@@ -1,0 +1,24 @@
+{
+  "name": "ant-design-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:start": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolylai/ant-design-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolylai/ant-design-vue/issues"
+  },
+  "homepage": "https://github.com/jolylai/ant-design-vue#readme",
+  "devDependencies": {
+    "vuepress": "^1.8.0"
+  }
+}
